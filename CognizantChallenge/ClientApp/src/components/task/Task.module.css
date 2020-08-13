@@ -1,0 +1,11 @@
+﻿.solveContainer {
+    margin-top: 50px;
+}
+
+.solveContainer h2 {
+    text-align: center;
+}
+
+.inputError {
+    color: red;
+}
